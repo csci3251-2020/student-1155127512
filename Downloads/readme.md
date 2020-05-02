@@ -20,5 +20,4 @@ Hello, I am Owen. I am a noob CS student and I am trying to make a markdown file
 | CSCI2100 | Data Structure |
 
 ## Screenshot
-![Screenshot](Screenshot from 2020-05-02 17-03-08.png)
-
+![Screenshot](Downloads/Screenshot from 2020-05-02 17-03-08.png)
