@@ -1,6 +1,6 @@
 # CSCI3251 Project Milestone 2
 ## About me
-Hello, I am Hui Wai Ming Owen. I am a noob CS student and I am trying to make a markdown file
+**Hello, I am Hui Wai Ming Owen. I am a noob CS student and I am trying to make a markdown file**
 
 ## Programming language that I learnt
 - C
