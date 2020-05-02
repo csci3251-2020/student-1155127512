@@ -20,4 +20,4 @@ Hello, I am Owen. I am a noob CS student and I am trying to make a markdown file
 | CSCI2100 | Data Structure |
 
 ## Screenshot
-![Screenshot](Downloads/Screenshot from 2020-05-02 17-03-08.png)
+![Screenshot from 2020-05-02 17-03-08](https://user-images.githubusercontent.com/63198680/80860284-3a0c7000-8c99-11ea-9543-18bd806879b0.png)
